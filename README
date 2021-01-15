@@ -1,0 +1,25 @@
+Save the Hostage
+
+Lo scopo del gioco è quello di salvare un ostaggio che si trova alla fine del percorso.
+
+Sono presenti diversi nemici che si muovuono randomicamente e che al contatto tolgono vita.
+
+Sono presenti fuochi e esplosioni che se si passa troppo vicino si perde vita.
+
+Nella mappa sono presenti medikit per recuperare vita e finti medikit che invece la tolgono.
+
+Nel Tutorial abbiamo un piccolo percorso per far capire le meccaniche del gioco.
+
+Nella mappa principale abbiamo un percorso più complesso e articolato che rappresenta il gioco vero e proprio.
+
+All'avvio della partita vera e propria verrà richiesto un nome utente, questo serve per creare la classifica accessibile dal menu iniziale.
+
+La classifica si basa sul tempo che una persona ci mette a raggiungere la bambina, completando quindi il percorso.
+
+Nel settings menu è possibile modificare l'audio dei menu e passare da schermo intero a finestra.
+
+WASD per muoversi .
+space per saltare.
+shift per correre.
+F per cambiare camera e passare dalla prima alla terza persona.
+crtl per bloccare il mouse.
